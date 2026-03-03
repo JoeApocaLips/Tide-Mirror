@@ -32,7 +32,7 @@ Typography is semantic: blank lines and delays are part of the poem. Silence bre
 - Compact, readable, fork-ready architecture
 
 ## 📖 Output Sample
-'''text
+
   without static  
 waiting around platform  
   whispering against duct  
@@ -97,7 +97,7 @@ FLUTTER! the vein dissolves
 LOOK — drifting  
 SEE between stone  
 LISTEN — the smoke glides  
-'''  
+
 ## Run
 
 ```bash
