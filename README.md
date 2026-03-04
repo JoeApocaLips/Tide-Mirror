@@ -2,8 +2,8 @@
 
 > *"A machine of waves, not strophes."*
 
+A procedural poetry generator based on emotional tidal phases. Inspired by Nick Montfort's *Taroko Gorge* (2009), but evolves the linear path metaphor into a living, breathing organism.  
 Poetry like a Markovian Moore Machine.
-A procedural poetry generator based on emotional tidal phases. Inspired by Nick Montfort's *Taroko Gorge* (2009), but evolves the linear path metaphor into a living, breathing organism.
 
 ## How It Works
 
