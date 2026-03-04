@@ -16,7 +16,7 @@ Four phases cycle probabilistically via a Markov chain:
 | **Pulse** | Tension peaks, imperatives, ruptures, urgency |
 | **Fade** | Dissolution, ellipses, fading into silence |
 
-Typography is semantic: blank lines and delays are part of the poem. Silence breathes.
+Typography is semantic: blank lines are part of the poem. Silence breathes.
 
 ## Combinatorics
 

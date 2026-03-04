@@ -18,7 +18,7 @@
 #
 # Unlike Taroko Gorge's fixed strophic structure (path→site→cave),
 # Tide Mirror uses weighted state transitions to create organic rhythm.
-# Typography (blank lines, delays) is semantic — silence is part of the poem.
+# Typography (blank lines) is semantic — silence is part of the poem.
 #
 # Lexical economy: verb roots are transformed morphologically
 #  (ing/ed/s) for maximum recycling and combinatorial variety.
