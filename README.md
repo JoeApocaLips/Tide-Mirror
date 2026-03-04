@@ -2,6 +2,7 @@
 
 > *"A machine of waves, not strophes."*
 
+Poetry like a Markovian Moore Machine.
 A procedural poetry generator based on emotional tidal phases. Inspired by Nick Montfort's *Taroko Gorge* (2009), but evolves the linear path metaphor into a living, breathing organism.
 
 ## How It Works
@@ -32,72 +33,156 @@ Typography is semantic: blank lines and delays are part of the poem. Silence bre
 - Compact, readable, fork-ready architecture
 
 ## 📖 Output Sample
-
-  without static  
-waiting around platform  
-  whispering against duct  
+```
+pulsing above edge  
   
-shattering through the thread  
-endlessly the signal whispers into light  
+always the window slides  
+the door falls with thread  
+falling through the pavement  
+reflecting through the light  
   
-fraying around the sign  
-the fog fading into the threshold  
-softly the alley hums  
+bluring through the void  
+between tense and silent  
   
-sliding around the neon  
-the smoke breaking through the grid  
-  
-dimly the corner shatters  
-dimly breaking toward the grid  
-whispering between the signal and the ash  
-  
-BURN! the dust glides  
-WAIT! FEEL!  
-―——— seeping ———  
-LOOK into shadow  
-  shivered… almost…  
+  any rain... almost...  
   
   
-lingering across crossing  
+almost the vein falls into light  
+the stone becomes flickering  
+between shimmering and shimmering  
   
+HUM! the rust fades  
+SHIVER! among the tunnel  
+FADE! PAUSE!  
+FADE the cold pavement  
+huming around the wire  
+the passage pulses with dust  
+dimly the edge flutters  
+slowly reflecting toward the alley  
+dissolving through the train  
+  
+BREAK — WAIT!  
+LISTEN — the static holds  
+not shadow — void!  
+WAVER! the ash whispers  
+DRIFT — BLUR!  
+signal, lost  
+  coil, ashen  
+  
+shimmering edge  
+  
+burning beyond the cracked signal  
+the bridge quivers with pavement  
+  
+—— RUN ——  
+BREAK — lingering  
+not dust — smoke!  
+WAIT — gliding  
+the thread sliding upon the edge  
 reflecting through the ash  
-flame to void  
-nearly the glass seeps into light  
+lingering around the train  
+fading around the rust  
   
-RUN! SEE!  
-—— HOLD ——  
+WAVER! the thread breaks  
+WHISPER! the glass flutters  
+the echo... shattering...  
+  
+  
+whispering under street  
+no rust  
+  barely pale thread  
+  
+reflecting through the flame  
+fluttering around the stone  
+the shadow dissolving upon the alley  
+wire to static  
+barely the corner glides  
+  
+WAIT — SEEP!  
+FEEL — seeping  
+  some void... almost...  
+    rust... without ash...  
+  
+  
+void bluring  
+  
+the corner slides with dust  
+harshly fading toward the rim  
+the echo breaking through the edge  
+  
+solemnly bluring toward the crossing  
+bluring through the smoke  
+  
+the light waiting into the alley  
+the train fraying above the window  
+shivering between the hazy signal  
+endlessly the station wavers  
+  
+fragile pavement  
+  
+the void quivering inside the window  
+the thread drifting inside the threshold  
+fading above the hollow rust  
+  
+WAIT — bluring  
+GHOST the spare thread  
+BREAK — falling  
+LOOK the empty echo  
+SLIDE! beyond the crossing  
+the threshold quivers with smoke  
+the pavement bluring around the window  
+between pale and shimmering  
+shattering between the echo and the train  
+shattering through the rust  
+  
+dimly shattering toward the street  
+the ash pulsing inside the window  
+shattering inside the vague pavement  
+the coil whispering inside the street  
+  
+through shaft  
+barely dissolving  
+  
+solemnly the shaft wavers  
+between still and flickering  
+wire to sign  
+the wire becomes dense  
+dissolving around the dust  
+  
+HOLD inside flame  
+WHISPER — GLIMMER!  
+glimmering through the neon  
+wavering around the coil  
+fog to rust  
+bluring through the sign  
+  
+quivering inside the empty vein  
+the train burning at the tunnel  
+vein to neon  
+the bridge hums with dust  
+the corner pulses with vein  
+  
+  neon falling  
+  
+  ashen thread  
+  between shaft  
+  
+SHIVER! against the grid  
+RUN — the light blurs  
+—— SEE ——  
+WHISPER — GLIMMER!  
 ―——— pulsing ———  
-LINGER! the rain lingers  
-NOW — falling  
-SHIVER! the light dissolves  
-―——— dissolving ———  
-STOP through mirror  
-―——— sliding ———  
-lingering under the cracked static  
-the duct blurs with light  
-the signal reflecting inside the door  
-the pavement drifting into the corner  
-fraying around the dust  
+―——— fading ———  
+—— GHOST ——  
+PAUSE against sign  
+  no flame  
   
-the dust breaking among the rim  
-briefly the light shatters into light  
+    each thread... almost...  
   
-WAIT into echo  
-WHISPER! the coil slides  
-LISTEN around stone  
-STOP across wire  
-pulsing around the smoke  
-sliding between the pavement and the glass  
   
-FEEL! LOOK!  
-WAIT the vague mirror  
-STOP above void  
-LISTEN. FADE.  
-FLUTTER! the vein dissolves  
-LOOK — drifting  
-SEE between stone  
-LISTEN — the smoke glides  
-
+  among alley  
+  
+```  
 ## Run
 
 ```bash
