@@ -146,7 +146,6 @@ core = (
         )
        )
 
-print(__file__)
 last, cur = '', core[0] # breath first
 with (pathlib.Path(__file__).parent/'output'/time.strftime('poem-%y%m%d-%H%M%S.txt')).open('w', encoding='utf-8') as f:
   for _ in range(randint(12, 50)):
