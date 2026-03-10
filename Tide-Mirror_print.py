@@ -30,8 +30,8 @@
 #   Practical exhaustion: Impossible. Each run is statistically unique.
 #   ~100 lines of code generating astronomical poetic variations.
 #
-# No terminal output! Poem saved to output/poem-YYMMDD-HHMMSS.txt. No folder creation! create 'output' folder before.
-# Run: python tide_mirror.py
+# Output: Prints to stdout (terminal). 
+# Run: python tide_mirror_print.py
 #
 # "A machine of waves, not strophes."
 #
@@ -148,11 +148,10 @@ core = (
        )
 
 last, cur = '', core[0] # breath first
-with (pathlib.Path(__file__).parent/'output'/time.strftime('poem-%y%m%d-%H%M%S.txt')).open('w', encoding='utf-8') as f:
-  for _ in range(randint(12, 50)):
-      for t in choices(cur[5], cur[1], k=randint(*cur[2])):
-          while((ln := eval(f"f'{t}'")) == last): pass
-          last = ln
-          print(' ' * (c(cur[4]) if cur[4] else 0) + ln, file=f)
-      print('\n'*cur[3], end='', file=f)
-      cur = choices(core, cur[0])[0]
+for _ in range(randint(12, 50)):
+    for t in choices(cur[5], cur[1], k=randint(*cur[2])):
+        while((ln := eval(f"f'{t}'")) == last): pass
+        last = ln
+        print(' ' * (c(cur[4]) if cur[4] else 0) + ln)
+    print('\n'*cur[3], end='')
+    cur = choices(core, cur[0])[0]

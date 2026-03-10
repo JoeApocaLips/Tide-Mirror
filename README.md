@@ -184,6 +184,6 @@ PAUSE against sign
   
 ```  
 ## Run
-
+No terminal output! Poem saved to output/poem-YYMMDD-HHMMSS.txt. No folder creation! create 'output' folder before.
 ```bash
 python tide-mirror.py
