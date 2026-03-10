@@ -31,7 +31,7 @@
 #   ~100 lines of code generating astronomical poetic variations.
 #
 # No terminal output! Poem saved to output/poem-YYMMDD-HHMMSS.txt. No folder creation! create 'output' folder before.
-# Run: python tide_mirror.py
+# Run: python tide-mirror.py
 #
 # "A machine of waves, not strophes."
 #

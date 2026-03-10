@@ -31,7 +31,7 @@
 #   ~100 lines of code generating astronomical poetic variations.
 #
 # Output: Prints to stdout (terminal). 
-# Run: python tide_mirror_print.py
+# Run: python tide-mirror_print.py
 #
 # "A machine of waves, not strophes."
 #
